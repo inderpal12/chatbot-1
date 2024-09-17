@@ -6,4 +6,4 @@ Pillow
 frontend
 tools
 pandas
-xlsxwriter
+openpyxl
