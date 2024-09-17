@@ -4,10 +4,9 @@ langchain
 langchain_openai 
 langchain_community
 fitz
-PyMuPDF 
 Pillow
 frontend
 tools
 pandas
-xlsxwriter
 openpyxl
+PyMuPDF 
