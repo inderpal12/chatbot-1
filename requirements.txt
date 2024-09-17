@@ -9,4 +9,4 @@ frontend
 tools
 pandas
 openpyxl
-PyMuPDF 
+
